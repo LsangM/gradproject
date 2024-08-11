@@ -43,5 +43,5 @@
 
 ## 도커 이미지 버전
 * 도커 어플리케이션 이미지를 도커와 쿠버네티스 환경에 맞게 빌드하여 관리합니다.
-* 이미지는 DockerHub의 [gloriamok/python-face-rec](https://hub.docker.com/r/gloriamok/python-face-rec/tags)에서 다운받을 수 있습니다.
+* 이미지는 DockerHub의 [hazzzel/images](https://hub.docker.com/repositories/hazzzel)에서 다운받을 수 있습니다.
 ![image](images/docker-image-version.png)
